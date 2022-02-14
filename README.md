@@ -14,9 +14,9 @@ Hari ini saya telah menyelesaikan beberapa pembelajaran diantaranya
 - [x] Membuat Repository Baru
 - [x] Menambahkan Kembali Progress Belajar
 
-###Menambahkan Progress Belajar yang selesai
+### Menambahkan Progress Belajar yang selesai
 
--Menambahkan Kembali Progress Belajar
--Mengubah tampilan Menggunakan Format
--tantangan menambahkan Progress
+- Menambahkan Kembali Progress Belajar
+- Mengubah tampilan Menggunakan Format
+- tantangan menambahkan Progress
 
